@@ -52,7 +52,7 @@ Bola yang kita mainkan akan bergerak melewati rintangan-rintangan untuk meraih s
  *NIS*           : 4712/1431.070 <br>
  *Username*      : faychan <br>
  
- *Nama*          : Qoriatul Masfufah <br>
+ *Nama*          : Qori'atul Masfufah <br>
  *No Abs*        : 27 <br>
  *NIS*           : 4805/1524.070 <br>
  *Username*      : qoriatulmasfufah <br>
