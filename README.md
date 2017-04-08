@@ -17,14 +17,13 @@ Adepentur Bol <br>
 ![WhatsApp Image 2017-04-08 at 10.14.14 PM.jpg](https://s29.postimg.org/qtzx07jo7/Whats_App_Image_2017-04-08_at_10.14.14_PM.jpg)<br>
 ![WhatsApp Image 2017-04-08 at 10.14.20 PM.jpg](https://s1.postimg.org/ealbq40sv/Whats_App_Image_2017-04-08_at_10.14.20_PM.jpg)<br>
 
-### Screen Shoot Games Loss <br>
+### Screen Shoot Games Lose <br>
 ![WhatsApp Image 2017-04-08 at 11.10.28 PM.jpg](https://s16.postimg.org/w4qf8atkl/Whats_App_Image_2017-04-08_at_11.10.28_PM.jpg)<br>
 
 ### Screen Shoot Games Win <br>
 ![WhatsApp Image 2017-04-08 at 10.14.13 PM.jpg](https://s8.postimg.org/c1vu22ck5/Whats_App_Image_2017-04-08_at_10.14.13_PM.jpg)<br>
 
 ### Screen Shoot Games Pause <br>
-![WhatsApp Image 2017-04-08 at 10.14.21 PM.jpg](https://s9.postimg.org/lq8ty1jrz/Whats_App_Image_2017-04-08_at_10.14.21_PM.jpg)<br>
 ![WhatsApp Image 2017-04-08 at 11.27.51 PM.jpg](https://s9.postimg.org/n6tfwr4sv/Whats_App_Image_2017-04-08_at_11.27.51_PM.jpg)<br>
 
 ### Screen Shoot Exit <br>
@@ -37,6 +36,7 @@ Bola yang kita mainkan akan bergerak melewati rintangan-rintangan untuk meraih s
 - Tujuan Games : Dirancang untuk mengisi waktu luang anda dengan hal-hal positif yang tidak membosankan. Aplikasi ini sangat cocok dimainkan di segala kalangan usia.<br>
 
 ## Identitas Kelompok <br>
+### Kelompok 3 XIRPL1 <br>
  *Nama*          : Aqshal fajar Putra <br>
  *No Abs*        : 02 <br>
  *NIS*           : 4667/1386.070 <br>
