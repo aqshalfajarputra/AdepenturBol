@@ -25,6 +25,10 @@ Adepentur Bol <br>
 
 ### Screen Shoot Games Pause <br>
 ![WhatsApp Image 2017-04-08 at 10.14.21 PM.jpg](https://s9.postimg.org/lq8ty1jrz/Whats_App_Image_2017-04-08_at_10.14.21_PM.jpg)<br>
+![WhatsApp Image 2017-04-08 at 11.27.51 PM.jpg](https://s9.postimg.org/n6tfwr4sv/Whats_App_Image_2017-04-08_at_11.27.51_PM.jpg)<br>
+
+### Screen Shoot Exit <br>
+![WhatsApp Image 2017-04-08 at 11.28.19 PM.jpg](https://s8.postimg.org/9ho5x5c6t/Whats_App_Image_2017-04-08_at_11.28.19_PM.jpg)<br>
 
 ## Penjelasan <br>
 Adepentur Bol adalah games klasik yang mengajakmu menjelajah tantangan untuk menuju rumah harapan.<br>
